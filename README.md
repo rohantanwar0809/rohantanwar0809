@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Tanwar</h1>
 <h3 align="center">A passionate full-stack | frontend focused developer</h3>
 
-- 🔭 I’m currently working on **Ecommerce CMS (Next JS)**
+- 🔭 I’m currently working on **Ecommerce App (React Native)**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **React Native , Go**
 
 - 💬 Ask me about **Javascript , React JS , Node JS , Web development**
 
