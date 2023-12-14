@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Tanwar</h1>
 <h3 align="center">A passionate full-stack | frontend focused developer</h3>
 
-- 🔭 I’m currently working on **Pdf chatter box(Nextjs 13)**
+- 🔭 I’m currently working on **Notion Clone (Real time collboration) (Next JS)**
 
 - 🌱 I’m currently learning **Go**
 
