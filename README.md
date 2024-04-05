@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Notion Clone (Real time collaboration) (Next JS)**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Javascript , React JS , Node JS , Web development**
 
